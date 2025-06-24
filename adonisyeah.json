@@ -1,0 +1,22 @@
+{
+	"Moderators": {
+		"Level": 100,
+		"Users": []
+	},
+	"Admins": {
+		"Level": 200,
+		"Users": []
+	},
+	"HeadAdmins": {
+		"Level": 300,
+		"Users": []
+	},
+	"Developers": {
+		"Level": 899,
+		"Users": []
+	},
+	"Creators": {
+		"Level": 900,
+		"Users": [4431628849]
+	}
+}
